@@ -1,6 +1,6 @@
 <h1>Predictive analysis on dataset of test scores of student from various schools</h1>
 
-In this project, I explored the features and drived insights from data, then created a model to predict posttest scores.
+In this project, I explored the features and derived insights of data, then created a model to predict posttest scores.
 
 Data is from Kaggle, see it <a href="https://www.kaggle.com/kwadwoofosu/predict-test-scores-of-students">here</a>
 
