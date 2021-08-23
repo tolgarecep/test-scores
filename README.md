@@ -6,10 +6,4 @@
 
 :gear: I used Python libraries `pandas, numpy, matplotlib, seaborn and scikit-learn`. requirements.txt contains more detailed information about tools used.
 
-:chart_with_downwards_trend: Notes about analysis
-- I thought about working completely distinct from some part of the data during EDA, which would be the prospective test set, but abandoned the idea because it'll have an insignificant difference with the current version.
-- I cut the machine learning part of this analysis short because I couldn't find any interesting application to do. I hope to do more interesting projects with new datasets.
-- Next update for this will be about linear regression here achieving this nearly perfect accuracy.
-
-
 :man: Author: Tolga Recep Uçar - @tolgarecep
